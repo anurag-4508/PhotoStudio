@@ -20,9 +20,9 @@ const EngagementGallery = () => {
     "https://ik.imagekit.io/apm2002/Photos/Engagement/Eng%2020.jpg?updatedAt=1723875132191",
     "https://ik.imagekit.io/apm2002/Photos/Engagement/Eng%2021.jpg?updatedAt=1723875133924",
     "https://ik.imagekit.io/apm2002/Photos/Engagement/Eng%2022.jpg?updatedAt=1723875134305",
-    // "https://ik.imagekit.io/apm2002/Photos/Engagement/Eng%2023.jpg?updatedAt=1723875134814",
-    // "https://ik.imagekit.io/apm2002/Photos/Engagement/Eng%2024.jpg?updatedAt=1723875135073",
-    // "https://ik.imagekit.io/apm2002/Photos/Engagement/Eng%2025.jpg?updatedAt=1723875135260"
+    "https://ik.imagekit.io/apm2002/Photos/Engagement/Eng%2023.jpg?updatedAt=1723875134814",
+    "https://ik.imagekit.io/apm2002/Photos/Engagement/Eng%2024.jpg?updatedAt=1723875135073",
+    "https://ik.imagekit.io/apm2002/Photos/Engagement/Eng%2025.jpg?updatedAt=1723875135260"
   ];
 
   const [images, setImages] = useState([]);

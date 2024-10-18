@@ -19,15 +19,15 @@ const photos = [
     "Birthday%2022.jpg",
     "Birthday%2023.jpg",
     "Birthday%2024.jpg",
-    // "Birthday%209.jpg",
-    // "Birthday%2010.jpg",
-    // "Birthday%2011.jpg",
-    // "Birthday%2012.jpg",
-    // "Birthday%2013.jpg",
-    // "Birthday%2014.jpg",
-    // "Birthday%2015.jpg",
-    // "Birthday%2016.jpg",
-    // "Birthday%2025.jpg"
+    "Birthday%209.jpg",
+    "Birthday%2010.jpg",
+    "Birthday%2011.jpg",
+    "Birthday%2012.jpg",
+    "Birthday%2013.jpg",
+    "Birthday%2014.jpg",
+    "Birthday%2015.jpg",
+    "Birthday%2016.jpg",
+    "Birthday%2025.jpg"
 ];
 
 const Baby = () => {
